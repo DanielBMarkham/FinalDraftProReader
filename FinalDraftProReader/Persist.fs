@@ -1,6 +1,17 @@
 ﻿module Persist
     open Types
     open Utils
+    
+    let createHTMLScript (theScript:Script) (outputWriter:System.IO.TextWriter) =
+        outputWriter.WriteLine("<html>")
+        outputWriter.WriteLine("<head>")
+        outputWriter.WriteLine(putSomethingInsideAnHTMLTag "TEST SCRIPT" "title")
+        outputWriter.WriteLine("</head>")
+        outputWriter.WriteLine("<body>")
+        outputWriter.WriteLine(putSomethingInsideAnHTMLTag "TEST SCRIPT" "p")
+        outputWriter.WriteLine("</body>")
+        outputWriter.WriteLine("</html>")
+        ()
 
     let createReport (theScript:Script) (outputWriter:System.IO.TextWriter) =
         outputWriter.WriteLine ("Scene Count: " + theScript.Scenes.Length.ToString())
