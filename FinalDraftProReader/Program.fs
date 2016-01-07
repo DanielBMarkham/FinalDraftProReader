@@ -1,5 +1,7 @@
 ﻿module Main
-open Types
+    open Types
+    open Persist
+    open Utils
 
     [<EntryPoint>]
     let main argv = 

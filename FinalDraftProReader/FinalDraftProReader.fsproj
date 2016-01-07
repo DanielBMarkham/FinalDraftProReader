@@ -51,6 +51,8 @@
   <ItemGroup>
     <Compile Include="AssemblyInfo.fs" />
     <Compile Include="Types.fs" />
+    <Compile Include="Utils.fs" />
+    <Compile Include="Persist.fs" />
     <Compile Include="Program.fs" />
     <None Include="App.config" />
   </ItemGroup>
