@@ -17,4 +17,4 @@
                 fileOut.Flush()
                 fileOut.Close()
                 printfn "Finished"
-        runProgram doStuff argv "InOut" "This Program parses Final Draft Pro docs" [|"Help? There is no help"|] "test.fdx" "output.csv"
+        runProgram doStuff argv "InOut" "This Program parses Final Draft Pro docs" [|"Help? There is no help"|] "input.fdx" "output.csv"
