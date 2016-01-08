@@ -1,0 +1,21 @@
+body {
+        font-family:'Courier10 BT';
+        font-size:12pt;
+}
+div.Character {
+    text-align:center;
+    margin-bottom: 6pt;
+    text-transform:uppercase;
+}
+div.Dialogue {
+    margin-left:33.33%;
+    margin-right:33.33%;
+    margin-bottom: 24pt;
+}
+div.Parenthetical {
+    margin-left:33.33%;
+    margin-right:33.33%;
+}div.SceneTitle {
+    margin-top:36pt;
+    margin-bottom:36pt;
+}
