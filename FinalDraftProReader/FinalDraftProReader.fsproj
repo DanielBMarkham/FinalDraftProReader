@@ -55,6 +55,7 @@
     <Compile Include="Persist.fs" />
     <Compile Include="Program.fs" />
     <None Include="App.config" />
+    <None Include="mainScript.css" />
   </ItemGroup>
   <PropertyGroup>
     <MinimumVisualStudioVersion Condition="'$(MinimumVisualStudioVersion)' == ''">11</MinimumVisualStudioVersion>
@@ -78,7 +79,8 @@
   </PropertyGroup>
   <PropertyGroup>
     <PostBuildEvent>copy input.fdx ..\..
-copy output.csv ..\..</PostBuildEvent>
+copy output.csv ..\..
+copy Test.html ..\..</PostBuildEvent>
   </PropertyGroup>
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

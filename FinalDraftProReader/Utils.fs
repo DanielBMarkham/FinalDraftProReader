@@ -225,5 +225,5 @@
     let getDialogForAScene (scene:Scene) =
         scene.Shots.[0].Nodes |> Array.filter(fun x->x.NodeType="Dialog")
 
-    let putSomethingInsideAnHTMLTag (something:string) (tagName:string) =
-        "<" + tagName + ">" + something + "</" + tagName + ">"
+    let putSomethingInsideAnHTMLTag (something:string) (tagName:string) (attributes:string) =
+        "<" + tagName + attributes + ">" + something + "</" + tagName + ">"

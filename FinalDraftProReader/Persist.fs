@@ -2,16 +2,6 @@
     open Types
     open Utils
     
-    let createHTMLScript (theScript:Script) (outputWriter:System.IO.TextWriter) =
-        outputWriter.WriteLine("<html>")
-        outputWriter.WriteLine("<head>")
-        outputWriter.WriteLine(putSomethingInsideAnHTMLTag "TEST SCRIPT" "title")
-        outputWriter.WriteLine("</head>")
-        outputWriter.WriteLine("<body>")
-        outputWriter.WriteLine(putSomethingInsideAnHTMLTag "TEST SCRIPT" "p")
-        outputWriter.WriteLine("</body>")
-        outputWriter.WriteLine("</html>")
-        ()
 
     let createReport (theScript:Script) (outputWriter:System.IO.TextWriter) =
         outputWriter.WriteLine ("Scene Count: " + theScript.Scenes.Length.ToString())
@@ -44,5 +34,47 @@
         outputWriter.WriteLine()
         ()
 
+    type System.IO.TextWriter with
+        member x.WriteLineWithIndent(iLevel, (line:string)) =
+            x.WriteLine(("".PadLeft(iLevel*2)) + line)
+    let createHTMLScript (theScript:Script) (outputWriter:System.IO.TextWriter) =
+        outputWriter.WriteLine("<!DOCTYPE html>")
+        outputWriter.WriteLine("<html>")
+        outputWriter.WriteLineWithIndent(1, "<head>")
+        outputWriter.WriteLineWithIndent(2,"<meta charset=\"utf-8\">")
+        outputWriter.WriteLineWithIndent(2,putSomethingInsideAnHTMLTag "" "link" " href='..\..\mainScript.css' rel='stylesheet' type='text/css'")
+        outputWriter.WriteLineWithIndent(2,putSomethingInsideAnHTMLTag "TEST SCRIPT" "title" "")
+        outputWriter.WriteLineWithIndent(1,"</head>")
+        outputWriter.WriteLineWithIndent(1,"<body>")
+        theScript.Scenes |> Array.iteri(fun i x->
+            outputWriter.WriteLineWithIndent(2,putSomethingInsideAnHTMLTag "" "a" (" href='#Scene:" + x.Number + "'"))
+            outputWriter.WriteLineWithIndent(2,putSomethingInsideAnHTMLTag x.Title "div" " class='SceneTitle'")
+            x.Shots |> Array.iteri(fun j y->
+                if y.ShotDescription="Default" then () else outputWriter.WriteLineWithIndent(2,putSomethingInsideAnHTMLTag y.ShotDescription "div" " class='ShotDescription'")
+                y.Nodes |> Array.iteri(fun k z->
+                    match z.NodeType with
+                        | "Character" -> outputWriter.WriteLineWithIndent(2,putSomethingInsideAnHTMLTag z.NodeText "div" " class='Character'")
+                        | "Dialogue" -> outputWriter.WriteLineWithIndent(2,putSomethingInsideAnHTMLTag z.NodeText "div" " class='Dialogue'")
+                        | "Parenthetical" -> outputWriter.WriteLineWithIndent(2,putSomethingInsideAnHTMLTag z.NodeText "div" " class='Parenthetical'")
+                        |_ ->()
+                    )
+                ()
+                )
+            ()
+            )
 
+        outputWriter.WriteLine("<script>")
+        outputWriter.WriteLine("")
+        outputWriter.WriteLine("  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){")
+        outputWriter.WriteLine("  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),")
+        outputWriter.WriteLine("  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)")
+        outputWriter.WriteLine("  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');")
+        outputWriter.WriteLine("")
+        outputWriter.WriteLine("  ga('create', 'UA-72221858-1', 'auto');")
+        outputWriter.WriteLine("  ga('send', 'pageview');")
+        outputWriter.WriteLine("")
+        outputWriter.WriteLine("</script>")
 
+        outputWriter.WriteLine("</body>")
+        outputWriter.WriteLine("</html>")
+        ()
