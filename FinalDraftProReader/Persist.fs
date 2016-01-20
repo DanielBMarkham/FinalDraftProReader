@@ -92,15 +92,16 @@
             )
 
         outputWriter.WriteLineWithIndent(3, "</select> <!-- select -->")
+        outputWriter.WriteLineWithIndent(3, "<label><input type=\"checkbox\" id=\"cbShowShots\" checked=\"checked\" onclick=\"var divs = document.querySelectorAll('div.ShotDescription'); for (var i = 0; i < divs.length; ++i) { var s = divs[i].style; s.display = s.display === 'none' ? 'block' : 'none';}; return true; \"  />Show Shots</label>")
         outputWriter.WriteLineWithIndent(2, "</div> <!-- header -->")
         outputWriter.WriteLineWithIndent(2, "<div class='page'>")
         outputWriter.WriteLineWithIndent(3, "<div class='container'>")
 
         theScript.Scenes |> Array.iteri(fun i theScene->
-            outputWriter.WriteLineWithIndent(4,putSomethingInsideAnHTMLTag "" "a" (" id = '" + theScene.ComputedLabel + "" + "' href='#" + theScene.ComputedLabel + "'"))
+            outputWriter.WriteLineWithIndent(4,putSomethingInsideAnHTMLTag "" "a" (" id = '#" + theScene.ComputedLabel + "" + "' href='#" + theScene.ComputedLabel + "'"))
             outputWriter.WriteLineWithIndent(4,putSomethingInsideAnHTMLTag theScene.ComputedDescription "div" " class='SceneTitle'")
             theScene.Shots |> Array.iteri(fun j theShot->
-                outputWriter.WriteLineWithIndent(4,putSomethingInsideAnHTMLTag "" "a" (" id = '" + theShot.ComputedLabel + "' href='#" + theShot.ComputedLabel + "'"))
+                outputWriter.WriteLineWithIndent(4,putSomethingInsideAnHTMLTag "" "a" (" id = '#" + theShot.ComputedLabel + "' href='#" + theShot.ComputedLabel + "'"))
                 if theShot.ShotDescription="Default" 
                     then outputWriter.WriteLineWithIndent(4,putSomethingInsideAnHTMLTag "" "div" " class='ShotDescription'") 
                     else outputWriter.WriteLineWithIndent(4,putSomethingInsideAnHTMLTag theShot.ShotDescription "div" " class='ShotDescription'")

@@ -44,6 +44,10 @@ div.SceneTitle {
     margin-top:36pt;
     margin-bottom:36pt;
 }
+div.ShotDescription {
+    text-transform:uppercase;
+    display:block;
+}
 .header {
     position: fixed;
     display:block;
@@ -53,8 +57,12 @@ div.SceneTitle {
     background-color:gray;
     height:24pt;
     text-align:center;
+    color:white;
 }
 .navSelector {
     left:0pt;
     margin-top:5pt;
+}
+#cbShowShots {
+    color:white;
 }
