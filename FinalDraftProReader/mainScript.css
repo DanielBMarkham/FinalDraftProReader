@@ -66,3 +66,10 @@ div.ShotDescription {
 #cbShowShots {
     color:white;
 }
+.scriptNavLabel {
+    display:run-in;
+    float:right;
+    width:30pt;
+    text-align:left;
+    margin-top:-12pt;
+}

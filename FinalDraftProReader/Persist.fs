@@ -102,9 +102,10 @@
             outputWriter.WriteLineWithIndent(4,putSomethingInsideAnHTMLTag theScene.ComputedDescription "div" " class='SceneTitle'")
             theScene.Shots |> Array.iteri(fun j theShot->
                 outputWriter.WriteLineWithIndent(4,putSomethingInsideAnHTMLTag "" "a" (" id = '#" + theShot.ComputedLabel + "' href='#" + theShot.ComputedLabel + "'"))
+                let shotScriptLabel = "<div class=\"scriptNavLabel\">" + theShot.ComputedLabel + "</div>"
                 if theShot.ShotDescription="Default" 
-                    then outputWriter.WriteLineWithIndent(4,putSomethingInsideAnHTMLTag "" "div" " class='ShotDescription'") 
-                    else outputWriter.WriteLineWithIndent(4,putSomethingInsideAnHTMLTag theShot.ShotDescription "div" " class='ShotDescription'")
+                    then outputWriter.WriteLineWithIndent(4,putSomethingInsideAnHTMLTag shotScriptLabel "div" " class='ShotDescription'") 
+                    else outputWriter.WriteLineWithIndent(4,putSomethingInsideAnHTMLTag (theShot.ShotDescription + shotScriptLabel) "div" " class='ShotDescription'")
                 theShot.Nodes |> Array.iteri(fun k theShotNode->
                     match theShotNode.NodeType with
                         | "Character" -> outputWriter.WriteLineWithIndent(5,putSomethingInsideAnHTMLTag theShotNode.NodeText "div" " class='Character'")
