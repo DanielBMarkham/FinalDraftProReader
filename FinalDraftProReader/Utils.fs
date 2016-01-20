@@ -196,7 +196,7 @@
         let newSceneCharacters = newNodes |> Seq.filter(fun x->x.NodeType="Character") |> Seq.map(fun x->stripDialogContinuationEnding x.NodeText) |> Seq.distinct |> Seq.sort |> Seq.toArray |> Array.rev
         let newScriptNotes = getInnerTextArrayForMatchingXMLNodes scenePropertiesNode "ScriptNote/Paragraph"
         let newSceneNotes = getInnerTextArrayForMatchingXMLNodes scenePropertiesNode "Summary/Paragraph"
-        let newShots:Shot []=[|{ShotDescription="Default"; Nodes=newNodes}|]
+        let newShots:Shot []=[|{ShotDescription="Default"; Nodes=newNodes; ComputedLabel=""; ComputedDescription=""}|]
         {
             Title=newTitle.ToUpper()
             Length=getXMLNodeAttributeValueOrEmptyString scenePropertiesNode "Length"
@@ -206,16 +206,36 @@
             SceneCharacters=newSceneCharacters
             Notes=newSceneNotes
             Shots=newShots
+            ComputedLabel=""
+            ComputedDescription=""
         }
-
-    let createScript (doc:System.Xml.XmlDocument): Script =
-        let flatList = doc.SelectNodes("//Content/Paragraph") |> Seq.cast<System.Xml.XmlNode>
-        let newScenes = new System.Collections.Generic.List<Scene>()
-        flatList |> Seq.iteri(fun i x->
-            let nodeTypeAttribute = getXMLNodeAttributeValueOrEmptyString x "Type"
-            if nodeTypeAttribute = "Scene Heading" then newScenes.Add(createSceneFromNode flatList i x) else ()
+    let splitScriptIntoShots (inputScript:Script):Script =
+        let createShotFromNode (flatList:SceneSubNode []) shotTitle currentIndex (nd:SceneSubNode):Shot =
+            let newTitle =shotTitle
+            let newShotNodesXML = takeFromIndexToNextFind flatList  (currentIndex+1) (fun x->x.NodeType = "Shot")
+            let newShotNodes = newShotNodesXML |> Seq.map(fun x->
+                let newNodeType = x.NodeType
+                let newNodeText = x.NodeText
+                {NodeType=newNodeType; NodeText=newNodeText}
+                )
+            {ShotDescription=newTitle; Nodes=newShotNodes |> Seq.toArray; ComputedLabel=""; ComputedDescription=""}
+        let newScenes = inputScript.Scenes |> Seq.map(fun x->
+            let newScene = x
+            let flatList = x.Shots.[0].Nodes
+            let newShots = new System.Collections.Generic.List<Shot>()
+            flatList |> Seq.iteri(fun i y->
+                match i, y.NodeType with
+                    | 0,_ ->
+                        let shotTitle = "Default" 
+                        newShots.Add(createShotFromNode flatList shotTitle (i-1) y) 
+                    | _, "Shot" ->
+                        let shotTitle = y.NodeText 
+                        newShots.Add(createShotFromNode flatList shotTitle i y) 
+                    | _,_ -> ()
+                )
+            {x with Shots=newShots |> Seq.cast<Shot> |> Seq.toArray}
             )
-        {Scenes=(newScenes |> Seq.toArray)}
+        {Scenes=newScenes |> Seq.toArray}
     let getUniqueScriptLocations (scriptToCheck:Script) =
         let scenesOrderedByLocation = scriptToCheck.Scenes |> Seq.map(fun x->x.Title, x) |> Seq.map(fun (x,y)->(stripSceneTime y.Title),y) |> Seq.sortBy(fun (x,y)->x)
         let scenesGroupedByLocation =scenesOrderedByLocation |> Seq.groupBy(fun (x,y)->x.Trim())
@@ -227,3 +247,39 @@
 
     let putSomethingInsideAnHTMLTag (something:string) (tagName:string) (attributes:string) =
         "<" + tagName + attributes + ">" + something + "</" + tagName + ">"
+
+    let sceneNumberOrSceneArrayIndex sceneIndex scene = if scene.Number.Length>0 then scene.Number else sceneIndex.ToString()
+    let getLabelAndTitleForAScene (theScene:Scene) (sceneIndex:int) = 
+        let sceneNumber = sceneNumberOrSceneArrayIndex sceneIndex theScene
+        let anchorValue = "Scene:" + sceneNumber
+        let anchorDesc = " " + theScene.Title
+        (anchorValue,anchorDesc)
+    let getLabelAndTitleForAShot (theScene:Scene) (sceneIndex:int) (theShot:Shot) (shotIndex:int) =
+        let sceneNumber = sceneNumberOrSceneArrayIndex sceneIndex theScene
+        let anchorValue =  "Shot:" + sceneNumber + ":" + shotIndex.ToString()
+        let anchorDesc = if theShot.ShotDescription="Default" then "" else " " + theShot.ShotDescription
+        (anchorValue, anchorDesc)
+                
+    let computeLabelsAndDescriptionsForTheShotsAndScenes (theScript:Script) =
+        let newScenes = theScript.Scenes |> Array.mapi(fun i theScene->
+            let sceneLabelAndTitle = getLabelAndTitleForAScene theScene i
+            let newShots = theScene.Shots |> Array.mapi(fun j theShot->
+                let shotLabelAndTitle = getLabelAndTitleForAShot theScene i theShot j
+                {theShot with ComputedLabel=(fst shotLabelAndTitle); ComputedDescription=(snd shotLabelAndTitle)}
+                )
+            {theScene with ComputedLabel=(fst sceneLabelAndTitle); ComputedDescription=(snd sceneLabelAndTitle); Shots=newShots}
+            )
+        {Scenes=newScenes}
+
+
+    let createScript (doc:System.Xml.XmlDocument): Script =
+        let flatList = doc.SelectNodes("//Content/Paragraph") |> Seq.cast<System.Xml.XmlNode>
+        let newScenes = new System.Collections.Generic.List<Scene>()
+        flatList |> Seq.iteri(fun i x->
+            let nodeTypeAttribute = getXMLNodeAttributeValueOrEmptyString x "Type"
+            if nodeTypeAttribute = "Scene Heading" then newScenes.Add(createSceneFromNode flatList i x) else ()
+            )
+        let tempScript = {Scenes=(newScenes |> Seq.toArray)}
+        let splitByShots = splitScriptIntoShots tempScript
+        let splitByShotsAndLabelsComputed = computeLabelsAndDescriptionsForTheShotsAndScenes splitByShots
+        splitByShotsAndLabelsComputed

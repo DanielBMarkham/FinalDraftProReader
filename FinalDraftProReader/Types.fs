@@ -258,6 +258,8 @@
         {
             ShotDescription:string
             Nodes:SceneSubNode []
+            ComputedLabel:string
+            ComputedDescription:string
         }
     type Scene =  
         {   Length:string; 
@@ -268,6 +270,8 @@
             CharacterArcBeats:string []; 
             SceneCharacters:string []; 
             Shots:Shot [];
+            ComputedLabel:string
+            ComputedDescription:string
         }
     type Script = 
         { 

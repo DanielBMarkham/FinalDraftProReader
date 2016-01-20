@@ -1,6 +1,26 @@
 body {
-        font-family:'Courier10 BT';
-        font-size:12pt;
+    font-family:'Courier10 BT';
+    font-size:12pt;
+}
+.page {
+    margin:auto;
+    position:fixed;
+    left:0pt;
+    top:24pt;
+    text-align:center;
+    height:100%;
+    width:100%;
+    background-color:#eeeeee;
+    overflow-y:auto;
+}
+.container {
+    margin:auto;
+    text-align:left;
+    width:600px;
+    overflow-y:auto;
+    padding-left:1in;
+    padding-right:1in;
+    background-color:white;
 }
 div.Character {
     text-align:center;
@@ -8,14 +28,33 @@ div.Character {
     text-transform:uppercase;
 }
 div.Dialogue {
-    margin-left:33.33%;
-    margin-right:33.33%;
+    margin-left:1in;
+    margin-right:1in;
     margin-bottom: 24pt;
 }
 div.Parenthetical {
-    margin-left:33.33%;
-    margin-right:33.33%;
-}div.SceneTitle {
+    margin-left:1in;
+    margin-right:1in;
+}
+div.Action {
+    margin-left:0in;
+    margin-right:0in;
+}
+div.SceneTitle {
     margin-top:36pt;
     margin-bottom:36pt;
+}
+.header {
+    position: fixed;
+    display:block;
+    left:0pt;
+    top:0pt;
+    width:100%;
+    background-color:gray;
+    height:24pt;
+    text-align:center;
+}
+.navSelector {
+    left:0pt;
+    margin-top:5pt;
 }
