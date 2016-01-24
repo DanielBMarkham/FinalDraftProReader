@@ -72,10 +72,10 @@
             x.WriteLine(("".PadLeft(iLevel*2)) + line)
     let createHTMLScript (theScript:Script) (outputWriter:System.IO.TextWriter) =
         outputWriter.WriteLine("<!DOCTYPE html>")
-        outputWriter.WriteLine("<html>")
+        outputWriter.WriteLine("<html lang=\"en\">")
         outputWriter.WriteLineWithIndent(1, "<head>")
         outputWriter.WriteLineWithIndent(2,"<meta charset=\"utf-8\">")
-        outputWriter.WriteLineWithIndent(2,"<link href='mainScript.css' rel='stylesheet' type='text/css' />")
+        outputWriter.WriteLineWithIndent(2,"<link href='http://www.scriptweasel.com/mainScript.css' rel='stylesheet' type='text/css' />")
         outputWriter.WriteLineWithIndent(2,putSomethingInsideAnHTMLTag "TEST SCRIPT" "title" "")
         outputWriter.WriteLineWithIndent(2,"<meta name=\"viewport\" content=\"width=600, initial-scale=1\"/>")
         outputWriter.WriteLineWithIndent(1,"</head>")

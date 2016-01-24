@@ -56,8 +56,9 @@
     <Compile Include="Program.fs" />
     <None Include="App.config" />
     <None Include="mainScript.css" />
-    <None Include="uploadScript.html" />
     <None Include="Test.html" />
+    <None Include="index.html" />
+    <None Include="testUpload.html" />
   </ItemGroup>
   <PropertyGroup>
     <MinimumVisualStudioVersion Condition="'$(MinimumVisualStudioVersion)' == ''">11</MinimumVisualStudioVersion>
