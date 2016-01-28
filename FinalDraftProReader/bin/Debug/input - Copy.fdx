@@ -1,0 +1,4623 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<FinalDraft DocumentType="Script" Template="No" Version="2">
+
+  <Content>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1" Page="1" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="PERSON1"></CharacterArcBeat>
+          <CharacterArcBeat Name="PERSON10"></CharacterArcBeat>
+          <CharacterArcBeat Name="PERSON2"></CharacterArcBeat>
+          <CharacterArcBeat Name="PERSON3"></CharacterArcBeat>
+          <CharacterArcBeat Name="PERSON5"></CharacterArcBeat>
+          <CharacterArcBeat Name="PERSON6"></CharacterArcBeat>
+          <CharacterArcBeat Name="PERSON7"></CharacterArcBeat>
+          <CharacterArcBeat Name="PERSON8"></CharacterArcBeat>
+          <CharacterArcBeat Name="PERSON9"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>EXT. RANDOM STREET SCENE</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PERSON1</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I talked to the team for an hour, but nobody seemed to listen. I know they’re going to make me go over the same thing again tomorrow.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PERSON2</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The class said Product Owners make business decisions, but the only thing I do is talk to the team about technical stuff.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PERSON3</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Why can’t the business agree on what it wants? Everybody we talk to says one thing, the Product Owner says something else, and the user doesn’t agree with either of them.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PERSON5</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>How am I supposed to handle tons of project information in five separate systems?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Person6</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We had a great chat with those guys, but I’m not sure we know any more now than we did before we started.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PERSON7</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>How is it possible that this team got eight sprints into the project and still didn’t know we needed a 10 millisecond response time?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PERSON8</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Our backlog? We’ve got stories titled things like “Customer Table” How can that be right?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PERSON9</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Am I paying for technology teams or fast food order takers?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">PERSON10</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Why do we always have to keep doing the Product Owner’s work for him?</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1/8" Page="2" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>SECTION BREAK</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>“Quality is not an act. It is a habit.” -- Aristotle.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1/8" Page="2" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>TITLE CARD</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Opening credits</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1 4/8" Page="2" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="JACK"></CharacterArcBeat>
+          <CharacterArcBeat Name="KATRINA"></CharacterArcBeat>
+          <CharacterArcBeat Name="MELISSA"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>EXT. GREENSCREEN SHED - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>MELISSA, KATRINA, and JACK are gathered inside the shed, boxes in front of them. It’s obvious they’ve been sorting papers for a while.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Katrina</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Why are we here again?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Melissa</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Your father has his first big telephone meeting today about his project.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So we have to organize all the backlog material he’s collected over the years to use in our project.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Holds up rubber chicken.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>All of it?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>All of it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jack</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I found a box of assorted rubber animal noses.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Put that in the pile for “Weird Dad Stuff”</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JACK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I thought we had a separate pile for “Costumes”</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Weren’t we going to sort by project name? Guys -- I have things to do. My party is this afternoon.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We all have things to do. Your brother has to leave for work soon, and today is our day to spend some date night.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JACK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We’ve been here for two hours.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(then)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We can’t seem to agree on what to do with all of this.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Shouldn’t dad be the one to be sorting this out.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’ve told you, we’re helping him out. This project is very important to him.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(Looks around)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So where is he?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JACK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He said he had to get something from the house. Two hours ago.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(Gets up.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’ll see about that.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1 1/8" Page="3" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="DANIEL"></CharacterArcBeat>
+          <CharacterArcBeat Name="KATRINA"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>EXT. Deck - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>DANIEL is leaning over the deck railing, </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">DSLR</Text>
+      <Text> camera in hand. He is pointing at the dogs, which are just being dogs.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Katrina is looking at him, confused.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Daniel is talking to himself or the dog, we are not sure which.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>She doesn’t want to come over here at all. Maybe if I could...</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What are you doing?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Daniel</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What does it look like? Taking microscopic pictures of the dog.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Why?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>See those grey hairs? Ginger is getting old.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>She won’t be with us long.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So I figure I should record every little aspect of Ginger digitally. That way I’ll always have her around.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That’s stupid.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Stupid is as stupid does.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KaTRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What does that even mean?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Don’t know. Saw it in a movie once.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(Assessing the fact that her dad is not focused.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Father. Dad. Come here.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="7/8" Page="4" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="DANIEL"></CharacterArcBeat>
+          <CharacterArcBeat Name="KATRINA"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>EXT. DECK - CONTINUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Daniel and Katrina seated.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You are not at the building, are you?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Of course not. Why would I be?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Because we’re organizing </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">your</Text>
+      <Text> stuff, that’s why!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh yeah.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You need to come help us. We’re not sure how to organize all of your project information.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well that’s easy. It’s the Battle of the Ages.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You’re telling me. Mom says you’ve been disorganized and messy since she met you.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(You’re-a-smart-ass look)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Not me. I’m talking about how projects organize information. It’s directly related to the </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Socratics</Text>
+      <Text> and the beginnings of philosophy.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(Groans)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Not another story....</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1 3/8" Page="5" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="DANIEL"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. GREENSCREEN  </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>When you start a project, or even when you just meet new people, you’ll find that everybody has a different idea of what things are and how they work together.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The same is true with how to organize and sort your project information.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>When we go back as far as written history will allow, 3,000 years ago folks called the </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Pre-Socratics</Text>
+      <Text> were faced with the same problem.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>They lived in port and high-commerce towns. And they found that everybody they met from different cultures had different ideas of what things were and how things worked.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Who was right? How should they organize all the different ideas they were hearing?</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>This began what I’m going to call the “Battle of the Ages”, because nobody ever won. It is still going on until today.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It’s not a battle that was won or lost. It’s between two ways of thinking about things.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Understanding this struggle will allow you to categorize and work with all of the information in your project, including your backlogs.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1 5/8" Page="7" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="BUSINESS DANIEL"></CharacterArcBeat>
+          <CharacterArcBeat Name="DANIEL"></CharacterArcBeat>
+          <CharacterArcBeat Name="HIPPIE DANIEL"></CharacterArcBeat>
+          <CharacterArcBeat Name="KATRINA"></CharacterArcBeat>
+          <CharacterArcBeat Name="LT. DAN"></CharacterArcBeat>
+          <CharacterArcBeat Name="PM PETE"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>EXT. BETWEEN HOUSE AND GREENSCREEN SHED</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Daniel and Katrina are walking to the shed.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We’re going to have to talk about “buckets” and “flavors”</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>They stop walking. Daniel stares off. Various characters appear. (Not important where)</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HIPPIE DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Whoa! Buckets and Flavors! I love ice cream!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No, we’re not eating ice cream. The terms “Buckets” and “Flavors” are just my way of giving you something easy to remember, like our mantra and successful backlog qualities last time.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HIPPIE DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Bummer. You know, I’ve noticed something.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What’s that?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HIPPIE DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Chickens? Never sing.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We’re going to talk about Information Architecture today. What large buckets you can put your information in, and what flavors to tag it with to keep it organized.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HIPPIE DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I think that’s because chickens? If they could sing? They’d be like the Rolling Stones.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BUSINESS DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What value am I getting here, son?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m going to give folks an easy-to-use-and-remember way to organize all of their project information. They can use it with any kind of project or project tools.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LT. DAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We’re not having that half-brained, soft-headed, mealy-mouthed, passive aggressive moron PM show up again, are we?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PM PETE</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(Wags finger at camera)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Looks like somebody’s having a bad day.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I am not having a bad day.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Cut to Katrina. Head tilted back trying to figure out her dad.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Dad.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Huh?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Can we continue now?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Sure.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1/8" Page="8" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>SECTION BREAK</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Topic 1 </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Intro</Text>
+      <Text> - “Buckets”</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1 7/8" Page="8" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="DANIEL"></CharacterArcBeat>
+          <CharacterArcBeat Name="GROUP"></CharacterArcBeat>
+          <CharacterArcBeat Name="JACK"></CharacterArcBeat>
+          <CharacterArcBeat Name="KATRINA"></CharacterArcBeat>
+          <CharacterArcBeat Name="MELISSA"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. GREENSCREEN SHED</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Daniel and Katrina are standing in the doorway. Melissa and Jack are seated, still looking through things.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Where were you?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Katrina moves past her dad while Daniel stays in doorway.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Don’t ask.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Working on stuff. Important stuff.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(Not believing him.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Uh-huh.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(Trying to gather momentum before Melissa begins fussing at him for being gone)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Guys, look. We’re </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">gonna</Text>
+      <Text> all have to agree on how to file things.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JACK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>All together?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Melissa, Katrina, and Daniel in robotic unison.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>GROUP</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We’re </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">gonna</Text>
+      <Text> all have to agree on how to file things.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JACK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>But Dad, you’re the expert. Don’t you already know how to file things?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yep! I sure do. But I’m going to need you to understand </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">why</Text>
+      <Text> we ended up with this filing system or what I say will be useless.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Katrina and Melissa sigh loudly.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jack looks down as if to ignore his dad and continue sorting, because he fears some kind of training is coming. Then, as if remembering something, he looks at his wrist.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JACK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hey! Look at the time! Gotta be going!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He gets up and leaves.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Me too!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She begins to stand.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hey! Sit! You don’t have a job.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I could get one.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>This is easy. First I will give you the formula.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I hate math.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>There are four, and only four categories of information you will work with on any project.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So what are they?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Behavior, Structure, </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Supplementals</Text>
+      <Text>, and Meta. Know these four buckets and you’re already ahead of everybody else.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Four buckets doesn’t sound too bad. But why four? Why couldn’t we have 2 buckets? Or 17? Why is your way better?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That’s a very interesting question!</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1 3/8" Page="10" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="DANIEL"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. GREENSCREEN</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Pre-Socratics</Text>
+      <Text> lived in busy towns. They wondered: why does everybody think of things a different way?</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Some guys had gods for nature. Some had gods that lived in the sky.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Some thought the sky was a dome. Some thought the sky was heaven.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>How could people take the same things and organize them so completely differently?</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Pre-Socratics</Text>
+      <Text> had a simple question that any </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">2-year-old</Text>
+      <Text> would have.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What was stuff?</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Remember, this was a long, long time ago, before we had anything close to science or philosophy.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>They decided to try to figure out What the heck is going on here? What were things made of? What were the rules? How did stuff fit together?</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>This is exactly how most projects start, and that’s how mankind itself starting finally figuring out the world around us.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="3 3/8" Page="11" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="DANIEL"></CharacterArcBeat>
+          <CharacterArcBeat Name="KATRINA"></CharacterArcBeat>
+          <CharacterArcBeat Name="MELISSA"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. GREENSCREEN SHED</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Continuing without a break from the previous sorting scene.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The first bucket, Behavior, is all about what something </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">does</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Are you going to help us finish this?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Exactly. Whenever you’re talking about something </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">doing</Text>
+      <Text> something, you’re talking about behavior.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What do we put this stuff in? Buckets?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No. “Buckets” is just a term for category. They are not real buckets. But you bring up a good point.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I did?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yes. The next type of bucket is Structure, or how things fit together.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Like a blueprint or something.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yes. Any time you’re talking about how things fit together, you’re talking about structure.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Is that it?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No. We have two other buckets, </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Supplementals</Text>
+      <Text> and Meta.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And that’s it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yes. </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Supplementals</Text>
+      <Text> are blanket statements about a lot of things at once. Meta is information the project creates about itself.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>“</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Supplementals</Text>
+      <Text>” sounds kind of vague.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Not really. Look at it like this. Say we are building a bridge.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(Indulging him.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We were building a bridge.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>If I wanted every piece to be red, I could go to the design of each piece and say “it must be red”. Or I could just make a rule that all pieces are red.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(Still not getting it.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Okay.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Turns out projects are full of broad statements like that. We’ve found it’s much easier to put them in one spot than to keep repeating them everywhere.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What’s the last one, dad? We’ve got to get moving. I have a party in a couple of hours.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The last one is the Meta bucket. It’s everything that’s not about what the project is </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">doing</Text>
+      <Text>, but about the project itself.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Huh?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Stuff like team rosters, progress reports, burn-down charts.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Burning charts?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We’ll talk about the </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">meta</Text>
+      <Text> stuff a lot later. Right now we’re just figuring out how to get started.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(Holds up pizza hat)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What about this?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Daniel grabs hat.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Training material. This is my lucky pizza hat. I love this hat. Once I gave an entire seminar....</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(Interrupting)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Good.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(Gets up and pulls Daniel over.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Let’s get started organizing. So everything we could possibly find or do about a project goes into one of four buckets: Behavior, Structure, </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Supplementals</Text>
+      <Text>, or Meta.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Uh-huh</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(Holds out cardboard box.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And here’s your first bucket.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Daniel looks around in panic. Cleaning! Going on here! Right now!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(holds hands out to ward off attack.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Look, I gotta run down to the house...</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You what?!?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I know what this looks like, but honest. I think I left my camera out on the deck.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(saying in a monotone, as if she does not believe him.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And you say you’re coming right back.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(Nodding sweetly.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m coming right back.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Daniel leaves, still holding hat.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(Looking around at mess)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">have</Text>
+      <Text> to be kidding me.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(sighing)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Come on, </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Trina</Text>
+      <Text>. At least we have buckets. Let’s get started.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1 2/8" Page="15" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="DANIEL"></CharacterArcBeat>
+          <CharacterArcBeat Name="HIPPIE DANIEL"></CharacterArcBeat>
+          <CharacterArcBeat Name="LT. DAN"></CharacterArcBeat>
+          <CharacterArcBeat Name="PM PETE"></CharacterArcBeat>
+          <CharacterArcBeat Name="SCIENTIST DANIEL"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>EXT. BETWEEN HOUSE AND GREENSCREEN SHED</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Daniel is coming down to the house, holding hat, talking to himself.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well, that didn’t go too badly.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PM PETE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We’re going to play sorting games today! Yay! We’re going to have a lot of fun!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You’re right. This isn’t hard or difficult. The worst part is just getting people to agree on the buckets.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LT. DAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Agreement hell, son! We’ll just stomp a mud-hole in anybody who doesn’t use them!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That’s not going to work. Everybody -- and I mean everybody -- has to understand </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">how</Text>
+      <Text> the tagging system works in order to understand the rest of the course.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SCIENTIST DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You have failed to explain why this set of so-called buckets is better than any other.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yeah I know, and I may need to gloss over that a bit. Nobody is going to want a six-hour video about buckets.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HIPPIE DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(Nodding seriously)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I would. I love buckets. Rocky Road. Chunky Monkey.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>But we’ll get there. Folks will figure it out. Remember that we’re going to be using these tags in every episode after this one.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LT. DAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Troops learn from practice! Not from standing around in driveways talking to themselves!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That’s right. Let’s just give them the tagging system for all their project information, then explain it all as we go along.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Daniel begins walking again.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="2 1/8" Page="16" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="KATRINA"></CharacterArcBeat>
+          <CharacterArcBeat Name="MELISSA"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. GREENSCREEN SHED</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Melissa and Katrina continue sorting.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(Picks up stack of paper)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What were the four buckets again?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(counting on her fingers)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Behavior, Structure, </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Supplementals</Text>
+      <Text>, and Meta.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(picks up paper)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Here’s a flowchart. Flowcharts describe how things work, right?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I guess so.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So that’s Behavior.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(Drops. Looks at next item.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Here’s what looks like a database diagram.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>How can you possibly know what a database diagram looks like?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(points)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Because it says, right here, “Database Diagram”. Since it’s about how tables fit into a database, that would be structure.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>If you say so.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(Looking some more)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Here’s something titled “Web Navigation Map”. Since it’s about how pages fit on a website, it’s Structure.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I guess.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(Looks puzzled for a second)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>This looks like a list. “As a </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">CSR</Text>
+      <Text>, I need to review the customer balance so that I can help them when they call”</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Easy.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What is it?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It’s about somebody doing something, right?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yeah.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So it’s Behavior.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(Picks up paper)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Okay, here’s one I don’t know. Looks like a list of sentence fragments.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Tell me some.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Like “10 millisecond response time” or “</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">U-I</Text>
+      <Text> must also handle Spanish”</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(then)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Not sure what these are.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well mom, they’re not about the flow of things, and they’re not about how things are put together.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Right.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And it’s not project stuff. So I guess it has to be </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Supplementals</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(figuring it out)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Because it’s a bunch of broad rules about everything.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Because it’s a bunch of broad rules about everything.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1 7/8" Page="18" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="DANIEL"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. GREENSCREEN</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Pre-Socratics</Text>
+      <Text> wanted to figure out the meaning of life, the universe, and everything, but they didn’t have a good way to go about doing it.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So, like many of us when first beginning to organize project information, they flailed around a lot.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>But instead of just thinking about a project or program, they were thinking about everything.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(then)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>They ended up in some weird places.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>One guy, using what sounded like plausible reasoning, proved that everything was made out of nothing.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Ever hear about the philosopher that fell down a well?</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(then)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The only thing he did was look up at the sky!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Drum riff.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That’s one of the oldest jokes we have, and it’s about philosophers being so busy </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">thinking</Text>
+      <Text> about stuff that they didn’t get anything useful done.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Pre-Socratics</Text>
+      <Text> wanted to </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">reason</Text>
+      <Text> about everything. Once they started looking pretty stupid the next bunch of folks came along: the Sophists.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The Sophists were our first bunch of folks who claimed that ideas and reasoning were great -- as long as you got something useful accomplished.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The Sophists basically said that instead of being a </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">dork</Text>
+      <Text> wondering what the universe was, wasn’t it better to look good, be able to talk the talk, and have </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">impactful</Text>
+      <Text>, actionable agenda items?</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That’s right. Sophists were basically the world’s first business consultants.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1/8" Page="20" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>TITLE CARD</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>3-5 second flash of bullets. Four types of buckets: Behavior, Structure, </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Supplementals</Text>
+      <Text>, and Meta.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1/8" Page="20" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>SECTION BREAK</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Intro</Text>
+      <Text> to Topic 2 - “Flavors”</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="4/8" Page="20" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="KATRINA"></CharacterArcBeat>
+          <CharacterArcBeat Name="MELISSA"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. gREENSCREEN SHED - LATER</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Piles are moved around. It’s obvious Melissa and Katrina have been working for a while.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>This isn’t so bad. Another hour or so and we should be able to finish this for Dad.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Where </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">is</Text>
+      <Text> your father, anyway?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Beats me. It’s been an hour!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He said he had to check on something.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Katrina gets up, the look of death in her eyes.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I bet.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="2 4/8" Page="21" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="DANIEL"></CharacterArcBeat>
+          <CharacterArcBeat Name="KATRINA"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>EXT. DECK - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Daniel is laying on the deck, wearing a pizza hat, and waving a sausage around at the dog. The dog (separate shot) is running about having nothing to do with him.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>DANIEL Here Ginger! Here Ginger! Katrina opens door, sees her Dad and crosses her arms.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What are you doing!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(More to himself than her.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>With the right incentive and a controlled environment, I can get all the pictures I need.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Katrina walks over while talking, beginning as soon as she can see him.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Dad!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Daniel continues. Wiggles sausage some more in the air.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Maybe with two sausages...</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>DAD!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Daniel looks up, not a care in the world.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh hey there. Think you can get Ginger to come over here?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I am going to kill you.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(Still looking at dog.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Mad?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We have spent the last two hours sorting through </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">your</Text>
+      <Text> stuff.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yeah. Fun stuff, huh.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(then)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It was not fun.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Daniel looking up.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well, can you name the four buckets that all project information falls into?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(Sarcastically)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Behavior, Structure, </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Supplementals</Text>
+      <Text>, and Meta. Can you run fast enough to get away from me?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Daniel stands as he speaks.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Good! First, there’s what everybody focuses on too much when they talk about backlogs: Behavior. That’s what things </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">do</Text>
+      <Text>, right?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I am going to get my sword and stab you with it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Right! Then there’s Structure. That’s how things fit together; how little pieces fit into bigger pieces.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I am going to chop you into little pieces.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That’s good. Then there’s </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Supplementals</Text>
+      <Text>, which are general rules about the system itself.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(Slowly realizing the uselessness of the theatrics. Giving up.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Good grief, Dad.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(then)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We can’t finish. We’ve sorted the buckets, but the stacks are too big.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That’s Great! So now we need to talk about the flavors.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The flavors.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(then)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Of the buckets.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’ll go tell your mother</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(Begins to leave)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You coming?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>In just a minute. You can go on.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Daniel leaves.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Katrina picks up the camera from the deck as if to steal it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’ll fix this problem.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1 6/8" Page="23" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="BUSINESS DANIEL"></CharacterArcBeat>
+          <CharacterArcBeat Name="DANIEL"></CharacterArcBeat>
+          <CharacterArcBeat Name="HIPPIE DANIEL"></CharacterArcBeat>
+          <CharacterArcBeat Name="LT. DAN"></CharacterArcBeat>
+          <CharacterArcBeat Name="PM PETE"></CharacterArcBeat>
+          <CharacterArcBeat Name="SCIENTIST DANIEL"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>EXT. HALFWAY TO GREENSCREEN SHED</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Daniel is walking by himself to the shed. No hat.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We need to start talking about the flavors.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HIPPIE DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Dude. I sure hope mocha is one of the flavors.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SCIENTIST DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Another invented term to help people remember, no doubt.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It is. This whole thing is just a tagging system, an Information Architecture. “Buckets” and “Flavors” are just mnemonics.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HIPPIE DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Minnow-nomics</Text>
+      <Text>. The study of how little minnows buy and sell stuff. Whoa.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I guess the best way is just like before: just give them the formula for the tags. Start using them.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PM PETE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Remember from last time! Don’t just learn. Immediately start using this!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(grimace)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You’re right. I’ll give them the formula, we’ll start using it, then we’ll figure out why as we go along.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SCIENTIST DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You have repeatedly reminded us that “why” is very important.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It is. But the rest of this course is about using things categorized by this tagging system.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SCIENTIST DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You are saying that trying to tell us “why” right now would be, in effect, trying to fit the rest of the course in.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Right. And a tagging system isn’t the end of the world. They can keep doing things the way they’re doing them. All we’re adding is tags.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LT. DAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You had </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">better</Text>
+      <Text> be doing more than that! Drop and give me twenty!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BUSINESS DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The value is questionable.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I can’t think of any other topic in this series that doesn’t rely on understanding and using these tags. It’s foundational.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PM PETE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>On my last project? We played “Pin the tag on the project item!” There were prizes, and ice cream...</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HIPPIE DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Dude! They had ice cream! Ice! Cream!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Good point. There’s lots of room to make this social and fun.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HIPPIE DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Did you have any singing chickens?</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="2 4/8" Page="25" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="DANIEL"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. GREENSCREEN</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>When the Sophists came along, democracy had started to take root in Greece. There were more rich people who wanted their kids trained.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Sophists usually had a simple arrangement, not unlike those announcer-guys you see on late-night TV.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Pay up front. In a short amount of time, your kid would learn a cool new business skill.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We’ve lost most of what the Sophists taught, but it seems like the gist of it was flexibility.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Old joke about a small town hiring a new schoolteacher. Town fathers got together and asked him: do you teach the world is round or flat?</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The man looked at them sincerely and said: Well, I can teach it both ways.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Many times I will have clients who are arguing about the label to call something and it really doesn’t matter. As a way to break the tension, I’ll say “I know what you mean. I feel strongly both ways.”</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The thing is, persuasion, rhetoric, style, and technique are important parts of any discussion.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>To them, it didn’t matter about some universal right and wrong. It mattered whether we all agree and are moving forward.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Sound familiar? How many times have you had a discussion with a business person about a technical issue and everybody leaves happy but later you realize that you actually didn’t get any answers?</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Lawyers, marketers, sales people, business consultants and more -- these folks all use sophistry as a way to keep the peace and get agreement.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>In a tech team, it works for a while. You have these conversations and then you’re still left with questions. It’s very frustrating.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>In ancient Greece, it worked for a while. I’d be willing to bet that the Sophists are the key element that caused the ancient Greek democracy to actually work, instead of breaking up into warring factions.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>But then along came the most famous philosopher in all of history, and he tore the Sophists to shreds.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>But first we have to understand the nature of the battle that we’ve been watching.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="4 2/8" Page="28" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="BUSINESS DANIEL"></CharacterArcBeat>
+          <CharacterArcBeat Name="DANIEL"></CharacterArcBeat>
+          <CharacterArcBeat Name="KATRINA"></CharacterArcBeat>
+          <CharacterArcBeat Name="LT. DAN"></CharacterArcBeat>
+          <CharacterArcBeat Name="MELISSA"></CharacterArcBeat>
+          <CharacterArcBeat Name="PM PETE"></CharacterArcBeat>
+          <CharacterArcBeat Name="SCIENTIST DANIEL"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. GREENSCREEN SHED</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Melissa is sitting, waiting. Daniel walks in, defeated, and sits next to her. Katrina arrives looking like the cat that ate the bird. (Because she has hidden Daniel’s camera and thus will prevent any more shenanigans)</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We had better finish soon. Don’t you have a call to make?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh yeah.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And I have that party to go to.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And we have date night. Don’t forget that. Now what are we going to do with these huge piles?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Okay. This is easy. Aside from the buckets, there are 8, and only 8, flavors you have to choose from for each item in a bucket.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KaTRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So it’s not just 4 buckets. Now we have to memorize 8 tags.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Even easier than that. There are 3 types of flavors. Each type has only 2 values. 2 times 2 times 2 equals 8, see?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m not following.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>First one let’s call “Genre”. It’s the most important one of all, even more than the buckets. The two values are “Business” and “System”</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What does that mean?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Is this about business stuff and not related to tech? Or about tech stuff and not related to business?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Okay. Makes no sense to me, but okay.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So first you pick one of those two: Business or System.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And then?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Usually I put Business or System and then the bucket name.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I mean then -- what are the next tags?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>After genre and bucket, second flavor we’ll call Abstraction Level. Values can be “Abstract”, and “Realized”</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So it’s genre, bucket name, and abstraction level. What’s the last one?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Third flavor type is the Temporal Indicator, whether we’re talking about right now or in the future. It can be “As-is” or “To-be”</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You’re going to need to say that again.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Okay, but there’s one twist. The flavors don’t all go together. It’s genre, bucket, abstract, time.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You’re going to need to say that again.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Look it’s easy. Pick 1 of 2 genres, 1 of 4 buckets, 1 of 2 abstraction levels, and then 1 of 2 temporal indicators. You’re done.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Easy.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Just a big multiple choice. Fill-in-the-blank.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Family disappears as characters pop in and out.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BUSINESS DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Excellent work. A simple formula is something we can create a standard around and begin systematizing.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That’s what I’m afraid of. How about we learn the tags, use them in our projects, and then talk about systems?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LT. DAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">learn</Text>
+      <Text> by engagement with the enemy!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That’s exactly right, and we’re going to talk about that a lot more as the series goes on.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BUSINESS DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The Business tag is the most important.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That’s also exactly right, and we’re going to talk a lot more about </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">that</Text>
+      <Text> as we go on also.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SCIENTIST DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>There must be a science to this or it’s pointless.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PM PETE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Are we having fun yet? Because if we’re not having fun, somebody needs a hug!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You are all correct, and there is a ton of stuff here. </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Geesh</Text>
+      <Text>! But for now, just the tags!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Characters gone. Family back. Daniel stares off.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Just the tags!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Sweetie?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Daniel is surprised.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You okay?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I am. Look, it’s a tagging system. It’s like a command-line formula.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>A what?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Graphic overlay.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It’s Business/System, Behavior/Structure/</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Supplementals</Text>
+      <Text>/Meta, Abstract or Realized, then As-Is/To-Be.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>At least it isn’t lengthy.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>PM Pete pops up.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PM PETE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We could make a song out of it!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>PM Pete goes away. Daniel shakes it off.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Nope.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I hate to ask this, but</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(then)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Why couldn’t we just figure out a sorting system as we went along?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Why not look it up in a book? Aren’t there books with this stuff already in them?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You’re both right. Sometimes it makes sense to have things be emergent. Sometimes it makes sense to use a pre-canned system.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Uh-oh.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>When dad says something like that..</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="2 3/8" Page="32" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="DANIEL"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. GREENSCREEN</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We talked about the </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Pre-Socratics</Text>
+      <Text>, who wanted to make a model or rules for everything.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We talked about Sophists, who could care less about rules and models. They just wanted to get stuff done.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>This is as far back in time as we can reach, and already the fight has begun.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The Battle of the Ages. A continual fight that has created everything in your life.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It’s fought between the Rationalists and Empiricists, The Modelers versus the Observers.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>On one side, we have the Rationalists, or Modelers. They believe in models, ideals, systems and rules.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The Modelers are more concerned with the abstract model and rules for things than anything else.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>They’re the guys who fell down the well while looking at the sky.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>On the other side, we have the Empiricists, or Observers. They believe in observation, data, change and flow.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The Observers are more concerned with the fluid nature of how things are always changing.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>They’re the ones who feel strongly both ways.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Looking back over centuries of philosophy, the pendulum constantly swings from one side to the other. Modelers to Observers, Rationalists to Empiricists.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>For a while, people will be more concerned about structure and rules. Then they’ll be more concerned about observations and change.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>How does our species get smarter? By the swinging of the pendulum.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The Sophists were running the table. They were teaching great facilitation and rhetorical skills.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>But along came somebody who totally destroyed their world.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(then)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That man was Socrates.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="4 7/8" Page="35" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="DANIEL"></CharacterArcBeat>
+          <CharacterArcBeat Name="KATRINA"></CharacterArcBeat>
+          <CharacterArcBeat Name="MELISSA"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. GREENSCREEN SHED</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Family is all together. We will have an overlay with each of the choices for tags. As they read out titles to pieces of paperwork, they will announce how to tag it. The overlay will show the appropriate tags being selected.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(looking at paper)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Org</Text>
+      <Text> chart for a business division.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Org</Text>
+      <Text> chart. Business, obviously. How things fit together. Structure. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Okay. That’s genre and bucket. What are the other two tags?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I don’t know. Why should I know this stuff?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So we can work. Last two tags are abstraction level and temporal indicator.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Okay.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So what are those?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Beats me.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well, since it’s an </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">org</Text>
+      <Text> chart for a business as it is today, it’s As-Is. And since it’s about a real business, and not an abstract one, it’s Realized.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I understand As-Is and To-Be, but what does Abstract and Realized mean?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Programmers will know this. Abstract information is like a pure virtual class.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(Sarcastically)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh boy. Thanks dad. That really helps.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Abstract documents are about how things work in general. Realized documents are about how they work in particular instances.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Right.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So if I were telling you about how I might set up the kitchen to my future submarine shop on the beach.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>If you were talking about where the furniture went, it would be Structure. If you were talking about how you made sandwiches, it would be Behavior.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Right! So let’s try some more.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Joy.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(Picks up another doc)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Here’s a project from the late </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">90s</Text>
+      <Text>. An activity diagram for how cigarettes are sold at certain grocery stores.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So it’s how something happens. Behavior. At particular stores, Realized.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yes. And?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Is it about how the computers work?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No. It’s about how the people work together.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">that’d</Text>
+      <Text> be Business.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(then)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It’s Business Behavior Realized As-Is.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yes! Yes! Yes!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You don’t have to get so excited about it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(picks up sheet)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Here’s one. Looks like a list of sentences all the same.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Like what?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well. As an online customer I need to verify my account to see my balance.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Okay</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Or this. As a receiving clerk I need to verify shipments against </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">B-O-Ls</Text>
+      <Text> to keep the inventory in balance.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Ok</Text>
+      <Text>. What do those sound like?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>There are no computers.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Right.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So it’s Business. And it sounds like how thinks work, so it’s Behavior. Business Behavior.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And the other two tags?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Er. Er. Don’t tell me.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(then)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Abstraction level and temporal thingy, right?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yes!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It sounds like something you’re going to make happen, so that’s To-Be. And it’s pretty generic, so that would be Abstract?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yes! Yes </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Yes</Text>
+      <Text> </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Yes</Text>
+      <Text>!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You don’t have so get so excited about it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So your dear mother has a bunch of titles to some Business Behavior Abstract To-Be, right?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I do?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You do. You have the beginning of a backlog. Congratulations.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So you want 4 buckets, 8 tags, 32 piles of stuff? We don’t have that much space!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No no. It varies project by project. But that’s another day.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So what do you want to do.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I know. How about we use some of those colored stickers. Just put those on top. Four stacks, 8 different colors.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Okay. We can do that.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And I know where the stickers are.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(then)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Down at the house.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(leery)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You do.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yes. I will go down to the house and get them.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(Wanting to stop this before it starts)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You honestly think that...</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(realizing the camera is hidden)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It’s fine, mom. Go get the stickers.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(Surprised at his own success)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Are you sure?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yeah. Are you sure?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Katrina nods sagely.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m sure.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>But I should....</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m sure.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Daniel begins to say something, then figures it’s best to run away before they wise up to him. He leaves.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1 3/8" Page="40" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="BUSINESS DANIEL"></CharacterArcBeat>
+          <CharacterArcBeat Name="DANIEL"></CharacterArcBeat>
+          <CharacterArcBeat Name="HIPPIE DANIEL"></CharacterArcBeat>
+          <CharacterArcBeat Name="LT. DAN"></CharacterArcBeat>
+          <CharacterArcBeat Name="PM PETE"></CharacterArcBeat>
+          <CharacterArcBeat Name="SCIENTIST DANIEL"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">EXT. HALFWAY TO GREENSCREEN SHED</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Daniel is standing in middle of driveway, trying to make sure he’s covered everything, counting on his fingers.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The 4 buckets. The 8 tags. Genre, Abstraction Level, Temporal Indicator. Yeah, that’s it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LT. DAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You mean to tell me that putting a bunch of stickers on a stack of papers is your idea of satisfactory?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>For going through my old project papers? Sure. I’ve had projects where we didn’t write anything down.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BUSINESS DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>There is no way I’m going to invest any kind of money at all into a project with absolutely no tracking system.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HIPPIE DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It’s the fascists corporate pigs that...</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hold off guys. And I’ve had projects that we scaled up a lot. This is a starter system.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SCIENTIST DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>A “Starter System”</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The 4 buckets and 8 tags are the minimum you need to know </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">regardless of how much detail you get or how you store it</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PM PETE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We get to keep our </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">DayGlow</Text>
+      <Text> post-its? And our weekly karaoke backlog grooming party?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You guys get to keep whatever you want. All I ask is that you are able to categorize anything related to your project in the buckets and flavors.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PM PETE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yay! This week we’re having a Johnny Cash look-a-like contest~!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LT. DAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I am going to kill that guy! Where is he?</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(steps directly into/past the camera)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Come here!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Fading sound of PM Pete screaming as he runs away in the background.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Daniel looks a little worried, looks around to see if anybody notices him, then continues to the house.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1 7/8" Page="41" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="DANIEL"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. GrEENSCREEN</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Socrates is considered one of the greatest philosophers that ever lived, yet we don’t know a lot about him.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Why? Well because he annoyed the heck out of everybody until they killed him, that’s why.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Socrates had one simple trick which turned out to probably be the greatest invention that mankind has ever created. He was ignorant.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Most humans, even babies, quickly learn to guess and feel confident about what might be true, even if they’re not really sure.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Our brains are wired to make guesses and then just assume that this is reality. If this weren’t the case, we’d be checking out every chair we met to make sure it would hold us.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Socrates did not do this. Instead, like a </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">2-year-old</Text>
+      <Text>, when somebody said something that sounded smart, he very gently asked questions, like “Why?” </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">or</Text>
+      <Text> “How?”</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>People were forced to explain themselves. They found that all that slick talk of the Sophists didn’t hold up under just a few questions.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>As you can imagine, this did not make the Sophists very happy. It did not make most of the people of Athens very happy.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Ever hang out with a </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">2-year-old</Text>
+      <Text> asking questions all day? Socrates was like that, only he asked </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">really smart</Text>
+      <Text> questions.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And you couldn’t send him to his room.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>But by continuing to doggedly pick away like this, the chaos he created caused the pendulum to swing the other way.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="6/8" Page="43" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="DANIEL"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. FAMILY DINING ROOM</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Daniel is looking around, trying to find his camera.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well where the heck is my camera?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>We see dogs running by the french doors. There is barking.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You know the importance of having a tagging system</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Daniel looks under table. Nothing there.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Is knowing where to put things. Whether you’re just having conversations or creating huge program information systems, you have to have a clear idea of where to put stuff.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Shot of blankets on table. Daniel reaches over. Lifts blanket. Under the blankets is his pizza hat.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>A-ha! Slow, persistent inquiry will get you a heck of a lot farther than anything else.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Shot of the dogs looking in through the glass. Next shot can be Daniel on-cam or off-cam.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And sometimes we find help where we least expect it.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="3/8" Page="44" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="KATRINA"></CharacterArcBeat>
+          <CharacterArcBeat Name="MELISSA"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. GREENSCREEN SHED</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Melissa and Katrina are sitting around, doing nothing. A little frustrated at waiting.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>How long are we going to wait for you father?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Not very long. I have his camera right here.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And I have the stickers right here. So what is he doing?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>They look at each other.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="2 1/8" Page="44" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="DANIEL"></CharacterArcBeat>
+          <CharacterArcBeat Name="JACK"></CharacterArcBeat>
+          <CharacterArcBeat Name="KATRINA"></CharacterArcBeat>
+          <CharacterArcBeat Name="MELISSA"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. family living room</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Closed front door. Melissa and Katrina enter, complaining about Daniel.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General">
+      <DualDialogue>
+        <Paragraph Type="Character">
+          <Text>MELISSA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+          <Text>Well I’ll just tell him, he’s going to have to do the rest of it himself. If he thinks...</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+          <Text>KATRINA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+          <Text>Mom I don’t care what you and dad do. I am going to go to my party today whether you’ll take me or...</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Cut to Daniel facing outwards towards dogs at door. He is wearing the pizza hat. He either ignores or does not hear them.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’ll use the dogs to help! Hey little puppies! Find the camera for me!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You are not...</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Daniel opens the door. Dogs run in.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Floor-level shot. Dirty smelly outside dogs run eagerly into the house. During the rest of the scene, shots switch from close-ups of family members running after dogs (which are off-cam), dogs running by the cam, or things falling over. Barking and crashing sounds intermittently in the background.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I need to get just a few more...</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Are you out of your mind!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(running past her mom)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>My room! My door’s open!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Phone rings. Nobody pays any attention.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I couldn’t find my camera so...</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(running off-cam to room now)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The dogs are going to eat my rat!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I just need an..</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Melissa moves towards Daniel, angry.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Daniel Bruce Markham! I can’t believe you’ve let those...</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Phone rings again.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Shot moves to front door. Jack appears. Extremely puzzled by the chaos. Almost frozen.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(off-cam)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Those smelly dogs! Knocked over my rat cage! I am going to..</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Phone rings.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(Looking up at Jack as if nothing in the world is going on)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh. Hey Jack.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jack frozen. </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Robotically</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JACK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hey dad.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>More crashing. Phone rings again.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You are going to get up to that building!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KaTRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He’s going to clean my room first!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I should probably head out to the building.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(starts to leave)</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>They ate my ginger snaps!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Daniel passing Jack in doorway, who is still frozen.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well sweetie. Her name </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">was</Text>
+      <Text> Ginger, right?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jack remains frozen, staring straight ahead. Barking and crashing continues. One last phone ring. Timing of phone rings should be normal.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="5/8" Page="46" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ANGELA"></CharacterArcBeat>
+          <CharacterArcBeat Name="UNCLE BOB"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. UNCLE BOB’S OFFICE</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>UNCLE BOB is holding phone to ear. Angela is beside him. He puts the phone down.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>UNCLE BOB</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well that’s strange. This was the right time, wasn’t it?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ANGELA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(looking at clock)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>This was when we were supposed to talk.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>UNCLE BOB</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He didn’t answer.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>They both pause for a beat, thinking.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ANGELA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He’s probably busy working on content. You know writers.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>UNCLE BOB</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(considers)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yep, that’s it. You know I can’t wait to start seeing these videos. They could even help organize some of our work!</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="3/8" Page="47" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="DANIEL"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>EXT. HOUSE SIDEWALK</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Door shuts, Daniel walks hurriedly towards the camera.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(without stopping)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>See ya, Jack. I’ll be back. Sometime.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jack, of course, is nowhere to be seen. In background, we hear Jack yelling. A door slams. The dog barks. Katrina yells from her room next to the walk. A gunshot goes off. Pausing for just a second, Daniel continues walking hurriedly past the camera.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>As the camera pans when he walks by, on the side of the house we see the recap to Topic 2.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1/8" Page="47" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>TITLE CARD</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Graphic overlay, formula for tagging project items, including buckets and flavors.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1 7/8" Page="47" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="DANIEL"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. GREENSCREEN</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Something really interesting happened when philosophers started asking questions. They realized that while there was a lot of disagreement, there was also a lot of agreement about things.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Then they realized that by coming up with a simple categorization system, by asking the right questions, they could create a system for classifying all of nature.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>While there was an extreme amount of difference in the things in the world, there </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">was</Text>
+      <Text> some commonality too. Questions, instead of appearance, made the difference.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>There was a universal model. We could start sorting out everything we thought about into buckets and categories that we could then study.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Engineering and the technology we use is based on science. We use proven methods to work in a rigorous environment to solve problems.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>But the </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">world</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Italic"> </Text>
+      <Text>of technology development? Where you meet people and interact with chaotic systems?</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That’s </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">philosophy</Text>
+      <Text>, not science. Socrates is considered the world’s first philosopher.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He asked questions to explore stuff with other people. He was always unsure of himself.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Constant questioning led to a categorization system for nature.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Thousands of projects show us that there’s a common categorization system for project data, too.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Socrates and his students used philosophy to create an organization system for all of science. Let’s use this bucket and tagging system to build out a backlog science.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="7/8" Page="49" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="DANIEL"></CharacterArcBeat>
+          <CharacterArcBeat Name="MELISSA"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>EXT. HALFWAY TO GREENSCREEN SHED</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Are you able to list the types of buckets? The names of all the flavors?</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Given a list of various project items, can you tag where they go in your sleep?</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Remember our mantra and qualities of a successful backlog? Take those out. How do they apply to the tags?</Text>
+    </Paragraph>
+    <Paragraph Type="Shot">
+      <Text>New shot</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>This is your review! Can’t answer these questions? Now’s a good time to go back through the video.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Faraway sound of house door opening. Faintly,</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Why are you in the middle of the driveway you damned fool!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Daniel looks toward house, fear in his eyes.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I have some other things to do.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="4/8" Page="50" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="DANIEL"></CharacterArcBeat>
+          <CharacterArcBeat Name="KATRINA"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>EXT. DECK - LATER</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Katrina and Daniel are sitting at table.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Aren’t you going to take pictures of Ginger?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You know, capturing a bunch of data about Ginger could never actually replace the real </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">Ginger</Text>
+      <Text>. It just does more harm than good.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KATRINA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yep dad. I know.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(then)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What’s next?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>How to capture a bunch of data.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1/8" Page="50" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>TITLE CARD</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>End credits</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="2/8" Page="50" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="HIPPIE DANIEL"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>EXT. Woods</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HIPPIE DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Chickens.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(then)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Never sing.</Text>
+    </Paragraph>
+  </Content>
+
+  <Watermarking Text=""/>
+
+  <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="No" HeaderVisible="Yes" StartingPage="1">
+    <Header>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="-1.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	</Text>
+        <DynamicLabel Type="Last Revised"/>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	</Text>
+        <DynamicLabel Type="Page #"/>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        <Tabstops>
+          <Tabstop Position="4.50" Type="Center"/>
+          <Tabstop Position="7.25" Type="Right"/>
+        </Tabstops>
+      </Paragraph>
+    </Header>
+    <Footer>
+      <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> </Text>
+      </Paragraph>
+    </Footer>
+  </HeaderAndFooter>
+
+  <SpellCheckIgnoreLists>
+    <IgnoredRanges/>
+    <IgnoredWords/>
+  </SpellCheckIgnoreLists>
+
+  <PageLayout BackgroundColor="#FFFFFFFFFFFF" BottomMargin="72" BreakDialogueAndActionAtSentences="Yes" DocumentLeading="Normal" FooterMargin="36" ForegroundColor="#000000000000" HeaderMargin="36" InvisiblesColor="#808080808080" TopMargin="72" UsesSmartQuotes="Yes">
+    <PageSize Height="11.00" Width="8.50"/>
+    <AutoCastList AddParentheses="Yes" AutomaticallyGenerate="Yes" CastListElement="Cast List"/>
+  </PageLayout>
+
+  <WindowState Height="635" Left="2" Mode="Maximized" Top="2" Width="649"/>
+
+  <TextState Scaling="140" Selection="42891,42891" ShowInvisibles="No"/>
+
+  <ElementSettings Type="General">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="General" ReturnKey="General" Shortcut="0"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Scene Heading">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Action">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="2"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Character">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.50" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Character" ReturnKey="Dialogue" Shortcut="3"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Parenthetical">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="-0.10" Leading="Regular" LeftIndent="3.00" RightIndent="5.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Parenthetical" ReturnKey="Dialogue" Shortcut="4"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Dialogue">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="2.50" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Dialogue" ReturnKey="Action" Shortcut="5"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Transition">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="5.50" RightIndent="7.10" SpaceBefore="12" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Transition" ReturnKey="Scene Heading" Shortcut="6"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Shot">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="7"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Cast List">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="8"/>
+  </ElementSettings>
+
+  <TitlePage>
+    <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="No" HeaderVisible="Yes" StartingPage="1">
+      <Header>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <DynamicLabel Type="Page #"/>
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        </Paragraph>
+      </Header>
+      <Footer>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+        </Paragraph>
+      </Footer>
+    </HeaderAndFooter>
+    <Content>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">E02</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps"> - Buckets and Flavors</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Written by</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Daniel Markham</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">INITIAL DRAFT</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">2016-01-15</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">1800 Fescue Circle, </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Huddleston</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">, VA 24104</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">540-297-9187</Text>
+      </Paragraph>
+    </Content>
+    <TextState Scaling="100" Selection="14,14" ShowInvisibles="No"/>
+  </TitlePage>
+
+  <UnanchoredScriptNotes/>
+
+  <SmartType>
+    <Characters>
+      <Character>ANGELA</Character>
+      <Character>BUSINESS DANIEL</Character>
+      <Character>Daniel</Character>
+      <Character>GROUP</Character>
+      <Character>HIPPIE DANIEL</Character>
+      <Character>Jack</Character>
+      <Character>Katrina</Character>
+      <Character>LT. DAN</Character>
+      <Character>Melissa</Character>
+      <Character>PERSON!</Character>
+      <Character>PERSON1</Character>
+      <Character>PERSON2</Character>
+      <Character>PERSON3</Character>
+      <Character>PERSON5</Character>
+      <Character>Person6</Character>
+      <Character>PERSON7</Character>
+      <Character>PERSON8</Character>
+      <Character>PERSON9</Character>
+      <Character>PROJECT MANAGER DANIEL</Character>
+      <Character>SCIENTIST DANIEL</Character>
+      <Character>UNCLE BOB</Character>
+    </Characters>
+    <Extensions>
+      <Extension>(V.O.)</Extension>
+      <Extension>(O.S.)</Extension>
+      <Extension>(O.C.)</Extension>
+      <Extension>(CONT'D)</Extension>
+      <Extension>(SUBTITLE)</Extension>
+    </Extensions>
+    <SceneIntros Separator=". ">
+      <SceneIntro>INT</SceneIntro>
+      <SceneIntro>EXT</SceneIntro>
+      <SceneIntro>I/E</SceneIntro>
+    </SceneIntros>
+    <Locations>
+      <Location>GREENSCREEN SHED</Location>
+      <Location>DECK</Location>
+      <Location>GREENSCREEN</Location>
+      <Location>BETWEEN HOUSE AND GREENSCREEN SHED</Location>
+      <Location>SECTION BREAK</Location>
+      <Location>TITLE CARD</Location>
+      <Location>HALFWAY TO GREENSCREEN SHED</Location>
+      <Location>RANDOM STREET SCENE</Location>
+      <Location>FAMILY DINING ROOM</Location>
+      <Location>FAMILY LIVING ROOM</Location>
+      <Location>UNCLE BOB'S OFFICE</Location>
+      <Location>HOUSE SIDEWALK</Location>
+      <Location>WOODS</Location>
+    </Locations>
+    <TimesOfDay Separator=" - ">
+      <TimeOfDay>DAY</TimeOfDay>
+      <TimeOfDay>NIGHT</TimeOfDay>
+      <TimeOfDay>AFTERNOON</TimeOfDay>
+      <TimeOfDay>MORNING</TimeOfDay>
+      <TimeOfDay>EVENING</TimeOfDay>
+      <TimeOfDay>LATER</TimeOfDay>
+      <TimeOfDay>MOMENTS LATER</TimeOfDay>
+      <TimeOfDay>CONTINUOUS</TimeOfDay>
+      <TimeOfDay>THE NEXT DAY</TimeOfDay>
+    </TimesOfDay>
+    <Transitions>
+      <Transition>CUT TO:</Transition>
+      <Transition>FADE IN:</Transition>
+      <Transition>FADE OUT.</Transition>
+      <Transition>FADE TO:</Transition>
+      <Transition>DISSOLVE TO:</Transition>
+      <Transition>BACK TO:</Transition>
+      <Transition>MATCH CUT TO:</Transition>
+      <Transition>JUMP CUT TO:</Transition>
+      <Transition>FADE TO BLACK.</Transition>
+    </Transitions>
+  </SmartType>
+
+  <MoresAndContinueds>
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <DialogueBreaks AutomaticCharacterContinueds="Yes" BottomOfPage="Yes" DialogueBottom="(MORE)" DialogueTop="(CONT'D)" TopOfNext="Yes"/>
+    <SceneBreaks ContinuedNumber="No" SceneBottom="(CONTINUED)" SceneBottomOfPage="No" SceneTop="CONTINUED:" SceneTopOfNext="No"/>
+  </MoresAndContinueds>
+
+  <LockedPages/>
+
+  <Revisions ActiveSet="1" Location="7.75" RevisionMode="No" RevisionsShown="Active" ShowAllMarks="No" ShowAllSets="No" ShowPageColor="No">
+    <Revision Color="#000000000000" FullRevision="No" ID="1" Mark="*" Name="Blue Rev. (mm/dd/yy)" PageColor="#C6C6EDEDFEFE" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="2" Mark="*" Name="Pink Rev. (mm/dd/yy)" PageColor="#FDFDCCCCD4D4" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="3" Mark="*" Name="Yellow Rev. (mm/dd/yy)" PageColor="#FDFDFFFFABAB" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="4" Mark="*" Name="Green Rev. (mm/dd/yy)" PageColor="#D1D1FEFED0D0" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="5" Mark="*" Name="Goldenrod Rev. (mm/dd/yy)" PageColor="#FAFACDCD3939" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="6" Mark="*" Name="Buff Rev. (mm/dd/yy)" PageColor="#FCFCEDED9D9D" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="7" Mark="*" Name="Salmon Rev. (mm/dd/yy)" PageColor="#F8F8AEAE8E8E" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="8" Mark="*" Name="Cherry Rev. (mm/dd/yy)" PageColor="#FBFBA4A4B4B4" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="9" Mark="*" Name="Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="10" Mark="*" Name="2nd White Rev. (mm/dd/yy)" PageColor="#FFFFFFFFFFFF" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="11" Mark="*" Name="2nd Blue Rev. (mm/dd/yy)" PageColor="#C6C6EDEDFEFE" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="12" Mark="*" Name="2nd Pink Rev. (mm/dd/yy)" PageColor="#FDFDCCCCD4D4" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="13" Mark="*" Name="2nd Yellow Rev. (mm/dd/yy)" PageColor="#FDFDFFFFABAB" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="14" Mark="*" Name="2nd Green Rev. (mm/dd/yy)" PageColor="#D1D1FEFED0D0" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="15" Mark="*" Name="2nd Goldenrod Rev. (mm/dd/yy)" PageColor="#FAFACDCD3939" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="16" Mark="*" Name="2nd Buff Rev. (mm/dd/yy)" PageColor="#FCFCEDED9D9D" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="17" Mark="*" Name="2nd Salmon Rev. (mm/dd/yy)" PageColor="#F8F8AEAE8E8E" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="18" Mark="*" Name="2nd Cherry Rev. (mm/dd/yy)" PageColor="#FBFBA4A4B4B4" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="19" Mark="*" Name="2nd Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
+  </Revisions>
+
+  <SplitState ActivePanel="1" SplitMode="None" SplitterPosition="1904">
+    <ScriptPanel DisplayMode="Page">
+      <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Verdana" RevisionID="0" Size="9" Style=""/>
+    </ScriptPanel>
+  </SplitState>
+
+  <Macros>
+    <Macro Element="Scene Heading" Name="INT" Shortcut="Ctrl+Alt+1" Text="INT. " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="EXT" Shortcut="Ctrl+Alt+2" Text="EXT. " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="I/E" Shortcut="Ctrl+Alt+3" Text="I/E " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="DAY" Shortcut="Ctrl+Alt+4" Text=" - DAY" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="NIGHT" Shortcut="Ctrl+Alt+5" Text=" - NIGHT" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="SUNRISE" Shortcut="Ctrl+Alt+6" Text=" - SUNRISE" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="MAGIC" Shortcut="Ctrl+Alt+7" Text=" - MAGIC" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="CONT" Shortcut="Ctrl+Alt+8" Text="continuing" Transition="Dialogue">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="INTER" Shortcut="Ctrl+Alt+9" Text="interrupting" Transition="Dialogue">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="Ctrl+Alt+0" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="CUTTO" Shortcut="Ctrl+Shift+Alt+1" Text="CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Action" Name="FADEIN" Shortcut="Ctrl+Shift+Alt+2" Text="FADE IN:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADEOUT" Shortcut="Ctrl+Shift+Alt+3" Text="FADE OUT." Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADETO" Shortcut="Ctrl+Shift+Alt+4" Text="FADE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="DISSLV" Shortcut="Ctrl+Shift+Alt+5" Text="DISSOLVE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="BACKTO" Shortcut="Ctrl+Shift+Alt+6" Text="BACK TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="MATCHCUT" Shortcut="Ctrl+Shift+Alt+7" Text="MATCH CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="JUMPCUT" Shortcut="Ctrl+Shift+Alt+8" Text="JUMP CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FBLACK" Shortcut="Ctrl+Shift+Alt+9" Text="FADE TO BLACK." Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="E" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+  </Macros>
+
+  <Actors>
+    <Actor MacVoice="" Name="Man 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Man 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Woman 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Woman 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Boy 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Boy 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Girl 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Girl 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Old Man" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Old Woman" Pitch="Normal" Speed="Medium" WinVoice=""/>
+  </Actors>
+
+  <Cast>
+    <Narrator Actor="Man 1">
+      <Element Type="Character"/>
+      <Element Type="Dialogue"/>
+    </Narrator>
+    <Member Actor="" Character="ANGELA"/>
+    <Member Actor="Man 1" Character="BUSINESS DANIEL"/>
+    <Member Actor="Man 1" Character="Daniel"/>
+    <Member Actor="Man 1" Character="GROUP"/>
+    <Member Actor="Man 1" Character="HIPPIE DANIEL"/>
+    <Member Actor="Man 1" Character="Jack"/>
+    <Member Actor="Man 1" Character="Katrina"/>
+    <Member Actor="Man 1" Character="LT. DAN"/>
+    <Member Actor="Man 1" Character="Melissa"/>
+    <Member Actor="" Character="PERSON!"/>
+    <Member Actor="" Character="PERSON1"/>
+    <Member Actor="" Character="PERSON2"/>
+    <Member Actor="" Character="PERSON3"/>
+    <Member Actor="" Character="PERSON5"/>
+    <Member Actor="" Character="Person6"/>
+    <Member Actor="" Character="PERSON7"/>
+    <Member Actor="" Character="PERSON8"/>
+    <Member Actor="" Character="PERSON9"/>
+    <Member Actor="Man 1" Character="PROJECT MANAGER DANIEL"/>
+    <Member Actor="Man 1" Character="SCIENTIST DANIEL"/>
+    <Member Actor="" Character="UNCLE BOB"/>
+  </Cast>
+
+  <SceneNumberOptions LeftLocation="0.75" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+  </SceneNumberOptions>
+
+  <CastList SortOption="Alphabetical">
+    <CustomOrder/>
+  </CastList>
+
+  <CharacterHighlighting>
+    <Character Color="#FFFFFFFFFFFF" Name="ANGELA" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="BUSINESS DANIEL" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="DANIEL" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="GROUP" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="HIPPIE DANIEL" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="JACK" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="KATRINA" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="LT. DAN" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="MELISSA" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="PERSON1" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="PERSON10" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="PERSON2" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="PERSON3" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="PERSON5" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="PERSON6" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="PERSON7" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="PERSON8" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="PERSON9" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="PM PETE" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="SCIENTIST DANIEL" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="UNCLE BOB" Visible="No"/>
+  </CharacterHighlighting>
+
+  <CharacterNavigatorPreferences IsSortAscending="Yes" SortColumn="Order"/>
+
+</FinalDraft>

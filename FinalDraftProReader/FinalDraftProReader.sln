@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
-MinimumVisualStudioVersion = 10.0.40219.1
+# Visual Studio 2012
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FinalDraftProReader", "FinalDraftProReader.fsproj", "{BE536021-CE07-43E6-86B6-F4FF85C5CC17}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ScriptWeaselUploader", "..\ScriptWeaselUploader\ScriptWeaselUploader.fsproj", "{991A259F-814F-426C-98FA-16F8EB14260F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +15,10 @@ Global
 		{BE536021-CE07-43E6-86B6-F4FF85C5CC17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE536021-CE07-43E6-86B6-F4FF85C5CC17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE536021-CE07-43E6-86B6-F4FF85C5CC17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{991A259F-814F-426C-98FA-16F8EB14260F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{991A259F-814F-426C-98FA-16F8EB14260F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{991A259F-814F-426C-98FA-16F8EB14260F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{991A259F-814F-426C-98FA-16F8EB14260F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

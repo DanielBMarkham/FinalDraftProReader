@@ -1,0 +1,18 @@
+C:\Users\Daniel Markham\Dropbox\source\git-repos\FinalDraftProReader\FinalDraftProReader\bin\Debug\FinalDraftProReader.exe.config
+C:\Users\Daniel Markham\Dropbox\source\git-repos\FinalDraftProReader\FinalDraftProReader\bin\Debug\FinalDraftProReader.XML
+C:\Users\Daniel Markham\Dropbox\source\git-repos\FinalDraftProReader\FinalDraftProReader\bin\Debug\FinalDraftProReader.exe
+C:\Users\Daniel Markham\Dropbox\source\git-repos\FinalDraftProReader\FinalDraftProReader\bin\Debug\FinalDraftProReader.pdb
+C:\Users\Daniel Markham\Dropbox\source\git-repos\FinalDraftProReader\FinalDraftProReader\bin\Debug\FSharp.Core.dll
+C:\Users\Daniel Markham\Dropbox\source\git-repos\FinalDraftProReader\FinalDraftProReader\bin\Debug\FSharp.Core.xml
+C:\Users\Daniel Markham\Dropbox\source\git-repos\FinalDraftProReader\FinalDraftProReader\obj\Debug\FinalDraftProReader.exe
+C:\Users\Daniel Markham\Dropbox\source\git-repos\FinalDraftProReader\FinalDraftProReader\obj\Debug\FinalDraftProReader.pdb
+C:\Users\Daniel Markham\Dropbox\source\git-repos\FinalDraftProReader\FinalDraftProReader\obj\Debug\FinalDraftProReader.fsprojResolveAssemblyReference.cache
+C:\Users\Daniel_Main\Dropbox\source\git-repos\FinalDraftProReader\FinalDraftProReader\bin\Debug\FinalDraftProReader.exe.config
+C:\Users\Daniel_Main\Dropbox\source\git-repos\FinalDraftProReader\FinalDraftProReader\bin\Debug\FinalDraftProReader.XML
+C:\Users\Daniel_Main\Dropbox\source\git-repos\FinalDraftProReader\FinalDraftProReader\bin\Debug\FinalDraftProReader.exe
+C:\Users\Daniel_Main\Dropbox\source\git-repos\FinalDraftProReader\FinalDraftProReader\bin\Debug\FinalDraftProReader.pdb
+C:\Users\Daniel_Main\Dropbox\source\git-repos\FinalDraftProReader\FinalDraftProReader\bin\Debug\FSharp.Core.dll
+C:\Users\Daniel_Main\Dropbox\source\git-repos\FinalDraftProReader\FinalDraftProReader\bin\Debug\FSharp.Core.xml
+C:\Users\Daniel_Main\Dropbox\source\git-repos\FinalDraftProReader\FinalDraftProReader\obj\Debug\FinalDraftProReader.exe
+C:\Users\Daniel_Main\Dropbox\source\git-repos\FinalDraftProReader\FinalDraftProReader\obj\Debug\FinalDraftProReader.pdb
+C:\Users\Daniel_Main\Dropbox\source\git-repos\FinalDraftProReader\FinalDraftProReader\obj\Debug\FinalDraftProReader.fsprojResolveAssemblyReference.cache
