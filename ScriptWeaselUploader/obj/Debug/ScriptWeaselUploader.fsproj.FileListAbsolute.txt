@@ -1,0 +1,14 @@
+C:\Users\Daniel_Main\Dropbox\source\git-repos\FinalDraftProReader\ScriptWeaselUploader\bin\Debug\ScriptWeaselUploader.exe.config
+C:\Users\Daniel_Main\Dropbox\source\git-repos\FinalDraftProReader\ScriptWeaselUploader\bin\Debug\ScriptWeaselUploader.XML
+C:\Users\Daniel_Main\Dropbox\source\git-repos\FinalDraftProReader\ScriptWeaselUploader\bin\Debug\ScriptWeaselUploader.exe
+C:\Users\Daniel_Main\Dropbox\source\git-repos\FinalDraftProReader\ScriptWeaselUploader\bin\Debug\ScriptWeaselUploader.pdb
+C:\Users\Daniel_Main\Dropbox\source\git-repos\FinalDraftProReader\ScriptWeaselUploader\bin\Debug\FSharp.Core.dll
+C:\Users\Daniel_Main\Dropbox\source\git-repos\FinalDraftProReader\ScriptWeaselUploader\bin\Debug\FSharp.PowerPack.dll
+C:\Users\Daniel_Main\Dropbox\source\git-repos\FinalDraftProReader\ScriptWeaselUploader\bin\Debug\mscorlib.dll
+C:\Users\Daniel_Main\Dropbox\source\git-repos\FinalDraftProReader\ScriptWeaselUploader\bin\Debug\System.Data.dll
+C:\Users\Daniel_Main\Dropbox\source\git-repos\FinalDraftProReader\ScriptWeaselUploader\bin\Debug\FSharp.Core.xml
+C:\Users\Daniel_Main\Dropbox\source\git-repos\FinalDraftProReader\ScriptWeaselUploader\bin\Debug\FSharp.PowerPack.pdb
+C:\Users\Daniel_Main\Dropbox\source\git-repos\FinalDraftProReader\ScriptWeaselUploader\bin\Debug\FSharp.PowerPack.xml
+C:\Users\Daniel_Main\Dropbox\source\git-repos\FinalDraftProReader\ScriptWeaselUploader\obj\Debug\ScriptWeaselUploader.exe
+C:\Users\Daniel_Main\Dropbox\source\git-repos\FinalDraftProReader\ScriptWeaselUploader\obj\Debug\ScriptWeaselUploader.pdb
+C:\Users\Daniel_Main\Dropbox\source\git-repos\FinalDraftProReader\ScriptWeaselUploader\obj\Debug\ScriptWeaselUploader.fsprojResolveAssemblyReference.cache
