@@ -4,7 +4,7 @@
 // to use it in anything like production: esp security and testing
 
 // Yep. Gotta use manual debugging. Set to true to write ton of files
-let DEBUG=true
+let DEBUG=false
 let DEBUG_WRITE_DIRECTORY="../scripts/" // set this somewhere you can write
 let writeDebugFile(filename,contents) =
     if DEBUG then System.IO.File.WriteAllText(DEBUG_WRITE_DIRECTORY + filename, contents) else ()
@@ -29,8 +29,23 @@ type System.Collections.IDictionary with
         seq {for i = 0 to this.Count - 1 do yield this.[i]}
     member this.toArray =
         [|for i = 0 to this.Count - 1 do yield this.[i] |]
+let random = new System.Random()
+type System.Random with
+    member this.GetValues(minValue, maxValue) = 
+        Seq.initInfinite(fun _ -> this.Next(minValue, maxValue))
+    member this.GetHex =
+        Seq.initInfinite(fun _ -> (this.Next(0, 255)).ToString())
+type System.IO.TextWriter with
+    member x.WriteLineWithIndent(iLevel, (line:string)) =
+        x.WriteLine(("".PadLeft(iLevel*2)) + line)
 
 // helper functions for this library that I prob won't use elsewhere
+let isLinux = 
+    let p = (int)System.Environment.OSVersion.Platform
+    (p=4) || (p=6) || (p=128)
+let getRandomFileName = 
+    let tmp = System.IO.Path.GetRandomFileName()
+    if tmp.Contains(".") then tmp.Replace(".", "") else tmp            
 let concatStringArrayWithSpacer (spacer:string) (stringArr:string[])  =
     let sBuff = new Text.StringBuilder(65535)
     stringArr |> Array.iteri(fun i x->
@@ -102,14 +117,65 @@ let httpRequestPost args (environmentVariables:System.Collections.Generic.IDicti
     // Remember if you write something, shouldn't be able to write to cgi-bin, it's execute only
     let processedUpload = processUpload uploadedFileStringContents
     writeDebugFile("processedUpload.txt", (snd processedUpload))
+
+    // Done uploading. Save the file if you want
+    let fileData = snd processedUpload
+    System.IO.File.WriteAllText("../scripts/input.fdx", fileData)
+
+    // in this app, we're processing files and moving them off to random links
+    let randomFilename = getRandomFileName
+
     // you also need to write something back out to the web client that is uploading this file to let them know how it went
     System.Console.WriteLine("Content-Type: text/html")
     System.Console.WriteLine("") // have to have an empty line here to separate header from returning content
-    System.Console.WriteLine("<html>\r\n<head>\r\n<title>Thanks!</title>\r\n</head>\r\n<body>\r\n")
+    System.Console.Out.WriteLine("<!DOCTYPE html>\r\n")
+    System.Console.Out.WriteLine("<html lang=\"en\">\r\n")
+    System.Console.WriteLine("<head>\r\n<title>Thanks!</title>\r\n")
+    System.Console.Out.WriteLineWithIndent(2,"<meta charset=\"utf-8\">")
+    System.Console.Out.WriteLineWithIndent(2,"<link href='http://www.scriptweasel.com/mainScript.css' rel='stylesheet' type='text/css' />")
+    System.Console.Out.WriteLineWithIndent(2,"<meta name=\"viewport\" content=\"width=600, initial-scale=1\"/>")
+    System.Console.WriteLine("</head>\r\n")
+    System.Console.WriteLine("<body>\r\n")
+    System.Console.Out.WriteLineWithIndent(2, "<div class='page'>")
+    System.Console.Out.WriteLineWithIndent(3, "<div class='container'>")
     System.Console.WriteLine("<h1>done and done</h1>\r\n")
     writeDebugTextLine System.Console.Out ((fst processedUpload) |> Seq.mapi(fun i x-> i.ToString() + ". " + x.Key + " - " + x.Value) |> Seq.toArray |> concatStringArrayWithSpacer ("<br/>" + "\r\n"))
     writeDebugTextLine System.Console.Out (environmentVariables |> Seq.mapi(fun i x->i.ToString() + ". " + x.Key + " - " + x.Value) |> Seq.toArray |> concatStringArrayWithSpacer ("<br />" + "\r\n"))
+    System.Console.WriteLine("<br/>\r\n")
+    System.Console.WriteLine("<a href='http://www.scriptweasel.com/scripts/" + randomFilename  + ".csv'<p>Your shot report</a></p>\r\n")
+    System.Console.WriteLine("<a href='http://www.scriptweasel.com/scripts/" + randomFilename  + ".fdx'<p>Your uploaded script</a></p>\r\n")
+    System.Console.WriteLine("<a href='http://www.scriptweasel.com/scripts/" + randomFilename  + ".html'<p>Web version of your script</a></p>\r\n")
+    System.Console.WriteLine("<a href='http://www.scriptweasel.com/scripts/" + randomFilename  + ".xml'<p>XML Version of your script</a></p>\r\n")
+    System.Console.WriteLine("<br/>\r\n")
+    System.Console.WriteLine("<form>E-mail me these links:<input type='text' name='email' id='email'/><input type='submit' onClick=”_gaq.push([‘_trackEvent’, ‘form', 'submit', 'email subscription’, 10]);' value='email me'/></form>\r\n")
+    System.Console.WriteLine("<br />\r\n")
+    System.Console.Out.WriteLineWithIndent(3,"</div> <!-- page -->")
+    System.Console.Out.WriteLineWithIndent(3,"</div> <!-- container -->")
+    System.Console.Out.WriteLine("<script>")
+    System.Console.Out.WriteLine("")
+    System.Console.Out.WriteLine("  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){")
+    System.Console.Out.WriteLine("  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),")
+    System.Console.Out.WriteLine("  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)")
+    System.Console.Out.WriteLine("  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');")
+    System.Console.Out.WriteLine("")
+    System.Console.Out.WriteLine("  ga('create', 'UA-72221858-1', 'auto');")
+    System.Console.Out.WriteLine("  ga('send', 'pageview');")
+    System.Console.Out.WriteLine("")
+    System.Console.Out.WriteLine("</script>")
     System.Console.WriteLine("</body>\r\n</html>\r\n")
+
+
+    // If you have some external process to call, now's the time to do it
+    // Should probably make this async. Also handle error, logging, etc. 
+    let processStartInfo = new System.Diagnostics.ProcessStartInfo("processNewFinalDraftProScriptUpload.sh", randomFilename + "  > /dev/null")
+    processStartInfo.UseShellExecute<-false
+    processStartInfo.CreateNoWindow<-true
+    processStartInfo.RedirectStandardOutput<-false
+    let proc = System.Diagnostics.Process.Start(processStartInfo)
+    proc.WaitForExit()
+    proc.Close()
+
+
     0
 
 // If you want to blow this out into a full-fledged program, you'd fill out the switchboard, below
