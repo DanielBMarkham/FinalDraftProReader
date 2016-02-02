@@ -83,7 +83,11 @@
   <PropertyGroup>
     <PostBuildEvent>copy input.fdx ..\..
 copy output.csv ..\..
-copy Test.html ..\..</PostBuildEvent>
+copy Test.html ..\..
+copy /Y FinalDraftProReader.exe ..\..\..\cgi-bin\
+copy /Y FinalDraftProReader.xml ..\..\..\cgi-bin\
+copy /Y FinalDraftProReader.pdb ..\..\..\cgi-bin\
+copy /Y FinalDraftProReader.exe.config ..\..\..\cgi-bin\</PostBuildEvent>
   </PropertyGroup>
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

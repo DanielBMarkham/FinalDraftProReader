@@ -59,6 +59,12 @@
     <MinimumVisualStudioVersion Condition="'$(MinimumVisualStudioVersion)' == ''">11</MinimumVisualStudioVersion>
   </PropertyGroup>
   <Import Project="$(MSBuildExtensionsPath32)\..\Microsoft SDKs\F#\3.0\Framework\v4.0\Microsoft.FSharp.Targets" Condition=" Exists('$(MSBuildExtensionsPath32)\..\Microsoft SDKs\F#\3.0\Framework\v4.0\Microsoft.FSharp.Targets')" />
+  <PropertyGroup>
+    <PostBuildEvent>copy /Y ScriptWeaselUploader.exe ..\..\..\cgi-bin\
+copy /Y ScriptWeaselUploader.xml ..\..\..\cgi-bin\
+copy /Y ScriptWeaselUploader.pdb ..\..\..\cgi-bin\
+copy /Y ScriptWeaselUploader.exe.config ..\..\..\cgi-bin\</PostBuildEvent>
+  </PropertyGroup>
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
   <Target Name="BeforeBuild">
